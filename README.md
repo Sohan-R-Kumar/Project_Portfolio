@@ -12,7 +12,7 @@ functionalities.
 
 ## Android Application Development - AI Chess Game
 * An AI based chess app written in Flutter using Flame engine, using the minimax algorithm with alpha-beta pruning with
-difficulty levels ranging from 1-6 along with functionality supporting different visual thematic graphics.
+difficulty levels ranging from 1-6 along with functionality supporting different visual thematic graphics.
 
 ## ML - Multi-Modal Emotion Recognition Using Speech
 * Project involved in building a Speech Emotion Recognition system that records human speech tone using Scikit-learn
